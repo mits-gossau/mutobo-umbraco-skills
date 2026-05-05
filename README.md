@@ -1,10 +1,10 @@
-# Mutobo + Umbraco Skills
+# MUTOBO - Umbraco Projects Skills
 
-This repository collects project-specific knowledge, workflows, and reusable skills for working with Mutobo and Umbraco.
+This repository collects project-specific knowledge, workflows, and reusable skills for Umbraco projects in the MUTOBO context.
 
 ## Purpose
 
-The goal is to provide a structured set of practical skills that support recurring work in Mutobo and Umbraco projects.
+The goal is to provide a structured set of practical skills that support recurring work in Umbraco projects.
 
 ## Scope
 
@@ -12,7 +12,7 @@ The repository may include guidance and reusable material for topics such as:
 - project-specific conventions
 - setup and maintenance workflows
 - Umbraco development tasks
-- Mutobo integrations and best practices
+- project-specific integrations and best practices
 - deployment, testing, and quality assurance
 
 
